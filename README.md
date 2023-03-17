@@ -1,7 +1,6 @@
 - Hi, I’m Alireza
-- I’m interested in Flutter
-- I’m currently learning React.js
-- I’m looking to collaborate on a React App
+- I’m interested in Python AI Programming
+- I’m currently learning Flutter 
 - You can reach me : Alireza.a@dextern.com
 
 <!---
