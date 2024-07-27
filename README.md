@@ -14,3 +14,5 @@ Email: Alirezajj118@gmail.com <br>
 LinkedIn: https://www.linkedin.com/in/alirezaakbariii/  <br>
 Twitter: https://twitter.com/shomalikid  <br>
 Let's connect and build amazing things together!  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
