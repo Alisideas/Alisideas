@@ -1,7 +1,7 @@
 Welcome to My GitHub Profile!
 <br>
 About Me: <br>
-Hello there! 👋 I'm Alireza, a passionate developer with experience in Next.js and Flutter. I love building web and mobile applications that are not only functional but also delightful to use.
+Hello there! 👋 I'm Alireza, a passionate developer with experience in <span className:"font-bold">Next.js</span> and Flutter. I love building web and mobile applications that are not only functional but also delightful to use.
 
 What I Do:<br>
 Next.js Development: I specialize in developing web applications using Next.js, a powerful React framework. With Next.js, I create fast, responsive, and SEO-friendly web experiences.
