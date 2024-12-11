@@ -12,7 +12,7 @@ I'm always open to collaboration, feedback, and new opportunities. Feel free to 
 
 Email: Alirezajj118@gmail.com <br>
 LinkedIn: https://www.linkedin.com/in/alirezaakbariii/  <br>
-Twitter: https://twitter.com/shomalikid  <br>
+X: https://x.com/alirezawakbari  <br>
 Let's connect and build amazing things together!  
 
 [![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisideas)](https://github.com/alisideas/github-readme-stats)
