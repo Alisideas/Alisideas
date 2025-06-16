@@ -22,7 +22,7 @@
       I'm always open to collaboration, feedback, and new opportunities. Feel free to reach out to me through the following channels:
     </p>
     <ul style="list-style: none; padding: 0;">
-      <li><strong>Email:</strong> <a href="mailto:Alirezakbarim@gmail.com" style="color: #3498db; text-decoration: none;">Alirezajj118@gmail.com</a></li>
+      <li><strong>Email:</strong> <a href="mailto:Alirezakbarim@gmail.com" style="color: #3498db; text-decoration: none;">Alirezakbarim@gmail.com</a></li>
       <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/alirezaakbariii/" style="color: #3498db; text-decoration: none;">https://www.linkedin.com/in/alirezaakbariii/</a></li>
       <li><strong>X:</strong> <a href="https://x.com/alirezawakbari" style="color: #3498db; text-decoration: none;">https://x.com/alirezawakbari</a></li>
     </ul>
