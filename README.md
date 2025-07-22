@@ -4,7 +4,7 @@
   <section>
     <h2 style="color: #2c3e50;">About Me</h2>
     <p style="color: #555; line-height: 1.6;">
-      Hello there! 👋 I'm <strong>Alireza</strong>, a passionate developer with experience in <strong>Next.js</strong> and <strong>Flutter</strong>. I love building web and mobile applications that are not only functional but also delightful to use.
+      Hello there! 👋 I'm <strong>Alireza</strong>, a passionate developer with experience in <strong>Next.js</strong> ,<strong>node.js </strong> and <strong>Flutter</strong>. I love building web and mobile applications that are not only functional but also delightful to use.
     </p>
   </section>
   
