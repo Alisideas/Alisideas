@@ -9,27 +9,32 @@
 ---
 
 ### **Executive Summary**
-Founder and lead developer with extensive experience in high-quality software architecture. Currently focused on building the future of automated digital presence through **InMinutes.app**—an AI-driven website builder and e-commerce ecosystem.
+Founder and lead developer focused on high-quality software architecture. Currently building the future of automated digital presence through **InMinutes.app** and creating utility-driven tools for the AI developer ecosystem.
 
 ### **Core Stack**
 *   **Web Architecture:** Next.js, Node.js, TypeScript
 *   **Mobile Ecosystem:** Flutter (Cross-platform native performance)
-*   **Specialization:** AI Integration, Scalable SaaS Infrastructure, and Premium UX/UI Design
+*   **AI & Logic:** LLM orchestration, automated UI generation, and developer productivity tools.
 
 ---
 
-### **Active Ventures**
+### **Key Projects**
+
 #### 🚀 [InMinutes.app](https://inminutes.app)
 *Founder & Lead Developer*  
-An AI-powered web application designed to generate full websites and integrated AI stores instantly. Bridging the gap between complex development and seamless user deployment.
+An AI-powered web application designed to generate professional websites and integrated AI stores instantly. 
+
+#### 🛠️ [Claude-limit-agent](https://github.com/Alisideas/Claude-limit-agent)
+*Creator*  
+A specialized utility designed to manage and optimize interaction limits for Claude, streamlining the workflow for developers relying on Anthropic's models.
 
 ---
 
 ### **Design Philosophy**
 I adhere to **Premium Minimalism**: 
-*   High-value visuals over clutter. 
-*   Material-driven aesthetics (Stone, Metal, Dark Tones).
-*   Functional space and precision-engineered user flows.
+*   **High Value:** Fewer elements, more impact. 
+*   **Atmosphere:** Stone, metal, and dark tones.
+*   **Precision:** No clutter, only high-performance code and visuals.
 
 ---
 
